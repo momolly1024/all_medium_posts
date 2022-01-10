@@ -1,2 +1,1 @@
-# all_medium_posts
-All My Medium Posts
+# All My Medium Posts
