@@ -3,6 +3,7 @@
  <h3 >📝 My Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Modules 是什麼？為什麼我要改用 CSS Modules？What is Css Modules ? Why should you use it ?](https://molly1024.medium.com/css-modules-%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E6%94%B9%E7%94%A8-css-modules-what-is-css-modules-why-should-you-use-it-aeb7d2955c58?source=rss-a56684c76423------2)
 - [Python — FastAPI，利用google sheet當資料庫結合FastAPI的使用範例。](https://molly1024.medium.com/python-fastapi-%E5%88%A9%E7%94%A8google-sheet%E7%95%B6%E8%B3%87%E6%96%99%E5%BA%AB%E7%B5%90%E5%90%88fastapi%E7%9A%84%E4%BD%BF%E7%94%A8%E7%AF%84%E4%BE%8B-57c9266255e6?source=rss-a56684c76423------2)
 - [Python 一個 line notify，通知今天氣溫。](https://molly1024.medium.com/python-%E4%B8%80%E5%80%8B-line-notify-%E9%80%9A%E7%9F%A5%E4%BB%8A%E5%A4%A9%E6%B0%A3%E6%BA%AB-a7e6fdb08543?source=rss-a56684c76423------2)
 - [React 如何抓取URL網址中的參數。How to Get Params in URL ?](https://molly1024.medium.com/react-%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96url%E7%B6%B2%E5%9D%80%E4%B8%AD%E7%9A%84%E5%8F%83%E6%95%B8-how-to-get-params-in-url-f8902a4256ca?source=rss-a56684c76423------2)
@@ -12,5 +13,4 @@
 - [在Ubuntu環境使用Git版控軟體&lpar;Git cola&rpar;。 Use Git GUI &lpar;Git cola&rpar; in Ubuntu.](https://molly1024.medium.com/%E5%9C%A8ubuntu%E7%92%B0%E5%A2%83%E4%BD%BF%E7%94%A8git%E7%89%88%E6%8E%A7%E8%BB%9F%E9%AB%94-git-cola-use-git-gui-git-cola-in-ubuntu-7b60b4ff8618?source=rss-a56684c76423------2)
 - [如何在Medium漂亮地貼上程式碼？](https://molly1024.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84medium%E6%BC%82%E4%BA%AE%E7%9A%84%E8%B2%BC%E4%B8%8A%E7%A8%8B%E5%BC%8F%E7%A2%BC-how-to-paste-the-prettier-code-in-medium-by-gist-2be386323957?source=rss-a56684c76423------2)
 - [React 五種獲取API資料的方式 。Five Ways of Fetching Data from API.](https://molly1024.medium.com/react-%E4%BA%94%E7%A8%AE%E7%8D%B2%E5%8F%96api%E8%B3%87%E6%96%99%E7%9A%84%E6%96%B9%E5%BC%8F-five-ways-of-fetching-data-from-api-f3368a07ed75?source=rss-a56684c76423------2)
-- [React 如何不用迴圈改變內層物件&lpar;Obj&rpar;的值。How to Change Value in Deep Object.](https://molly1024.medium.com/react-%E5%A6%82%E4%BD%95%E4%B8%8D%E7%94%A8%E8%BF%B4%E5%9C%88%E6%94%B9%E8%AE%8A%E5%85%A7%E5%B1%A4%E7%89%A9%E4%BB%B6-obj-%E7%9A%84%E5%80%BC-how-to-change-value-in-deep-object-6cb370b626aa?source=rss-a56684c76423------2)
 <!-- BLOG-POST-LIST:END -->
