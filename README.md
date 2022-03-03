@@ -3,6 +3,7 @@
  <h3 >📝 My Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Medium 小技巧，寫 Medium 應該知道的隱藏功能。](https://molly1024.medium.com/medium-%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AF%AB-medium-%E6%87%89%E8%A9%B2%E7%9F%A5%E9%81%93%E7%9A%84%E9%9A%B1%E8%97%8F%E5%8A%9F%E8%83%BD-b1df60747d03?source=rss-a56684c76423------2)
 - [React 效能優化 — React.memo、useCallback、useMemo 的使用方式及其他效能優化小技巧。](https://molly1024.medium.com/react-%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96-react-memo-usecallback-usememo-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96%E5%B0%8F%E6%8A%80%E5%B7%A7-700d74a7464d?source=rss-a56684c76423------2)
 - [React 一個 CRUD 增改刪查專案！](https://molly1024.medium.com/react-%E4%B8%80%E5%80%8B-crud-%E5%A2%9E%E6%94%B9%E5%88%AA%E6%9F%A5%E5%B0%88%E6%A1%88-9874b452ae36?source=rss-a56684c76423------2)
 - [CSS Modules 是什麼？為什麼我要改用 CSS Modules？What is Css Modules ? Why should you use it ?](https://molly1024.medium.com/css-modules-%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E6%94%B9%E7%94%A8-css-modules-what-is-css-modules-why-should-you-use-it-aeb7d2955c58?source=rss-a56684c76423------2)
@@ -12,5 +13,4 @@
 - [python — &lpar;1&rpar;Python Class&lpar;類別&rpar;的練習](https://molly1024.medium.com/python-1-python-class-%E9%A1%9E%E5%88%A5-%E7%9A%84%E7%B7%B4%E7%BF%92-c181599a5866?source=rss-a56684c76423------2)
 - [使用腳本自動更新github profile！（以更新medium最新文章為例）](https://molly1024.medium.com/%E4%BD%BF%E7%94%A8%E8%85%B3%E6%9C%AC%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0github-profile-%E4%BB%A5%E6%9B%B4%E6%96%B0medium%E6%9C%80%E6%96%B0%E6%96%87%E7%AB%A0%E7%82%BA%E4%BE%8B-b625dd6fa935?source=rss-a56684c76423------2)
 - [在React專案使用Canvas簽名框。How to put Signature field in React Project.](https://molly1024.medium.com/%E5%9C%A8react%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8canvas%E7%B0%BD%E5%90%8D%E6%A1%86-how-to-put-signature-field-in-react-project-9ad70a91541?source=rss-a56684c76423------2)
-- [如何在Medium漂亮地貼上程式碼？](https://molly1024.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84medium%E6%BC%82%E4%BA%AE%E7%9A%84%E8%B2%BC%E4%B8%8A%E7%A8%8B%E5%BC%8F%E7%A2%BC-how-to-paste-the-prettier-code-in-medium-by-gist-2be386323957?source=rss-a56684c76423------2)
 <!-- BLOG-POST-LIST:END -->
